@@ -20,7 +20,7 @@
 ### 🚀 Запуск
 **1. 🔗 Клонируйте репозиторий:**  
 ```bash
-git clone https://github.com/luwufka/tt-streak/
+git clone https://github.com/luwufka/tiktok-streak/
 ```
 
 **2. ⚙️ Настройте окружение:**  
