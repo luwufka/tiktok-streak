@@ -20,7 +20,7 @@
 ### 🚀 Запуск
 **1. 🔗 Клонируйте репозиторий:**  
 ```bash
-git clone https://github.com/luwufka/tiktok-streak/
+git clone https://github.com/luwufka/tiktok-auto-streak/
 ```
 
 **2. ⚙️ Настройте окружение:**  
